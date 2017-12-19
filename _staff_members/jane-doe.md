@@ -1,8 +1,8 @@
 ---
-name: Jane Doe
+name: Eduardo Reis
 image: "//placekitten.com/440/440?a=.png"
-credentials: LLB
+credentials: ER
 phone_extension: "02"
 ---
 
-Jane has 19 years of experience in law, and specialises in property and business.
+Eduardo Reis é o especializada na arte das Sobrancelhas.

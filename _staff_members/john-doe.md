@@ -1,8 +1,8 @@
 ---
-name: John Doe
+name: Priscila Ribeiro
 image: "//placebear.com/440/440?a=.png"
-credentials: LLB
+credentials: PAR
 phone_extension: "11"
 ---
 
-With an interest in employment law, John works tirelessly to improve workplaces.
+Designer de Sobrancelhas.
