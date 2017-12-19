@@ -1,6 +1,6 @@
 ---
 name: Priscila Ribeiro
-image: "/images/priscila.jpg"
+image: "/RDS/images/priscila.jpg"
 credentials:
 phone_extension:
 ---
