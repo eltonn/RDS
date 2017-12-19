@@ -1,14 +1,14 @@
-- title: Pages
+- title: Páginas
   links:
-    - name: Home
+    - name: Inicial
       link: /
-    - name: About
+    - name: Sobre
       link: /about/
-    - name: Services
+    - name: Serviços
       link: /services/
-    - name: Contact
+    - name: Contato
       link: /contact/
-    - name: Advice
+    - name: Unidades
       link: /advice/
 - title: Social
   links:
