@@ -1,7 +1,7 @@
 ---
 name: Eduardo Reis
-image: "/RDS/images/eduardo.png"
+image: "/RDS/images/eduardo.jpg"
 credentials: ER
 ---
 
-Especializada na arte das sobrancelhas.
+Especializada em sobrancelhas.
