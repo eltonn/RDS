@@ -1,8 +1,8 @@
 ---
 name: Priscila Ribeiro
-image: "//placebear.com/440/440?a=.png"
-credentials: PAR
-phone_extension: "11"
+image: "/images/priscila.jpg"
+credentials:
+phone_extension:
 ---
 
 Designer de Sobrancelhas.
