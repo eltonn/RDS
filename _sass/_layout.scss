@@ -60,7 +60,7 @@ header {
 header,
 footer {
 	a {
-		color: #3A4145;
+		color: #FFCC00;
 
 		&.active {
 			border-bottom: 2px solid;
@@ -109,7 +109,7 @@ section {
 		transition: color 0.2s ease;
 
 		&:hover {
-			color: #ffcc00;
+			color: #fefefe;
 		}
 	}
 }
