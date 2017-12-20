@@ -1,7 +1,6 @@
 ---
-name: Priscila Ribeiro
-image: "/RDS/images/priscila.jpg"
-credentials: PR
+name: Beatriz Nogueira
+image: "/RDS/images/beatriz.jpg"
+credentials: BRN
 ---
-
 Designer de Sobrancelhas.
