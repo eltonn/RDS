@@ -4,4 +4,4 @@ image: "/RDS/images/eduardo.png"
 credentials: ER
 ---
 
-Especializada em sobrancelhas.
+Especialista em sobrancelhas.
