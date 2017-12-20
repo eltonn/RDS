@@ -100,7 +100,7 @@ section {
 }
 
 .dark-section {
-	background-color: #FFCC00;
+	background-color: #3e3f46;
 	color: #c1c1c1;
 	box-shadow: inset 0px 15px 15px -15px rgba(0, 0, 0, 0.5);
 
@@ -109,7 +109,7 @@ section {
 		transition: color 0.2s ease;
 
 		&:hover {
-			color: #fefefe;
+			color: #ffcc00;
 		}
 	}
 }
