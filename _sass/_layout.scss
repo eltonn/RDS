@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #fefefe;
+	background-color: #B8860B;
 }
 
 .container {
@@ -10,7 +10,7 @@ body {
 }
 
 .box {
-	background-color: #fefefe;
+	background-color: #B8860B;
 	box-shadow: 1px 1px 5px 0 rgba(100, 100, 100, 0.2);
 	padding: 20px;
 	border-radius: 2px;
@@ -109,7 +109,7 @@ section {
 		transition: color 0.2s ease;
 
 		&:hover {
-			color: #fefefe;
+			color: #B8860B;
 		}
 	}
 }
@@ -228,7 +228,7 @@ footer {
 			}
 
 			&:hover svg {
-				fill: #daa520;
+				fill: #73a9c9;
 			}
 		}
 	}
@@ -273,7 +273,7 @@ footer {
 	content: " ";
 	position: absolute;
 	transform: translateY(-50%) rotate(45deg);
-	background-color: #fefefe;
+	background-color: #B8860B;
 }
 
 .testimonial-message::before {
